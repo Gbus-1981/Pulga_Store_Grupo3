@@ -47,6 +47,6 @@ PulgaStore/
 
 ## 📜 Licencia
 
-Proyecto en desarrollo, evaluación final de M2 Front-End 😉
+Proyecto en desarrollo, evaluación final de M2 Desarrollo de Aplicaciones Front End Trainne 😉
 
 ---
